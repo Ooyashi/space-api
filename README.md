@@ -20,7 +20,7 @@ The request body looks like this:
 
 The CURL of this endpoint looks like this:
 
-```json
+```
 curl --location 'http://localhost:3000/process-text' \
 --header 'Content-Type: application/json' \
 --data '{
